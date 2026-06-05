@@ -12,7 +12,7 @@ int main() {
         for (int i = 3; i <= n; i++) {
             a = f + s;
             f = s;
-            s = n;
+            s = a;
         }
         printf("The %dth Fibonacci term is: %d\n", n, s);
     }
