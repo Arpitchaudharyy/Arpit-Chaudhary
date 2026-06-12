@@ -9,11 +9,3 @@ int max(int a , int b){
     else 
     return b;
 }
-int main (){
-    int a , b;
-    printf("enter the two numbere a and b =\n");
-    scanf("%d%d",&a ,&b);
-    printf(" the maximumn number is = %d ", max(a,b));
-    return 0;
-
-}
