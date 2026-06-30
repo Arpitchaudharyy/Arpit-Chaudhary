@@ -1,4 +1,4 @@
-// Write a program to Create library management system.
+// Write a program to Create mini library system.
 #include<iostream>
 #include<string>
 using namespace std;
